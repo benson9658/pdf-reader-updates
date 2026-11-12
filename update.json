@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "notes": "修复扫描件识别排版：按原件分行，不再凭空插入空格和空行；新增「忽略手写批注乱码」开关；支持页面连续滚动、点击文件名重命名、扫描件划选复制。",
+  "url": "https://github.com/benson9658/pdf-reader-updates/releases/download/v1.1.0/PDF-Reader-Setup-1.1.0.exe",
+  "size": 99238191
+}
