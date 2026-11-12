@@ -1,10 +1,10 @@
 {
   "version": "1.1.0",
-  "notes": "修复扫描件识别排版：按原件分行，不再凭空插入空格和空行；新增「忽略手写批注乱码」开关；支持页面连续滚动、点击文件名重命名、扫描件划选复制。",
+  "notes": "新增首次使用离线激活（一码一机），激活后本机长期有效；修复扫描件识别排版；支持页面连续滚动、点击文件名重命名、扫描件划选复制。",
   "url": "https://github.com/benson9658/pdf-reader-updates/releases/download/v1.1.0/PDF-Reader-Setup-1.1.0.exe",
   "urls": [
-    "https://api.github.com/repos/benson9658/pdf-reader-updates/releases/assets/737834108",
+    "https://api.github.com/repos/benson9658/pdf-reader-updates/releases/assets/738488550",
     "https://github.com/benson9658/pdf-reader-updates/releases/download/v1.1.0/PDF-Reader-Setup-1.1.0.exe"
   ],
-  "size": 99237643
+  "size": 99242258
 }
